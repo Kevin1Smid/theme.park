@@ -60,35 +60,36 @@
     --transparency-light-95: rgba(255, 255, 255, .95)
 }
 
-[class*=blue]{
-    background-color: #000000;
-    border-color: #00000000;
-}
-[class*=indigo]{
-    background-color: #000000;
-        border-color: #00000000;
+[class*=blue] {
+    background-color: #111;
+    border-color: #00000000
 }
 
-[class*=purple]{
-    background-color: #000000;
-        border-color: #00000000;
+[class*=indigo] {
+    background-color: #111;
+    border-color: #00000000
 }
 
-[class*=green]{
-    background-color: #000000;
-    border-color: #ff000000;
+[class*=purple] {
+    background-color: #111;
+    border-color: #00000000
 }
 
-[class*=green-400]{
+[class*=green] {
+    background-color: #111;
+    border-color: #ff000000
+}
+
+[class*=green-400] {
     background-color: var(--bonusAccent);
     border-color: #ff000000;
-    color: #282828 !important;
+    color: #111!important
 }
 
-[class*=indigo-400]{
+[class*=indigo-400] {
     background-color: var(--warning);
     border-color: #00000000;
-    color: #282828 !important;
+    color: #111!important
 }
 
 [class*=text-gray-]:not(button:disabled):not(button):not(.text-gray-100) {
