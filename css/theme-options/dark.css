@@ -22,6 +22,8 @@
   --text-hover: #fff;
   --text-muted: #999;
 
+  --bonusAccent: #26e50d;
+
   /*Specials*/
   --arr-queue-color: #6b5; /* Servarr apps + Bazarr*/
   --plex-poster-unwatched: #26e50d;
