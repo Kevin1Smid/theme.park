@@ -333,7 +333,7 @@
         "overseerr-side-menu": "https://kevin1smid.github.io/theme.park\n/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=811501de0cba7241286a71f4313ca4c2",
         "plex-alt-logo": "https://kevin1smid.github.io/theme.park\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=859591d49ffccc4c424c4628b2bd0316"
       },
-      "base_css": "https://kevin1smid.github.io/theme.park\n/css/base/plex/plex-base.css?sha=ab783db0396704f2b60e359368ef6aab"
+      "base_css": "https://kevin1smid.github.io/theme.park\n/css/base/plex/plex-base.css?sha=52fdb39d3b9e68417d1bb72462b7f940"
     },
     "portainer": {
       "addons": {},
