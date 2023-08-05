@@ -362,6 +362,9 @@ button:hover [class*="DisclosureArrow-disclosureArrow-"] {
 [class*="SessionTile-playProgressPercent-"] {
   background-color: rgb(var(--accent-color)) !important;
 }
+[class*="VolumeSlider-track-"] {
+    background-color: hsl(0deg 0% 100% / 25%) !important;
+}
 
 [class*="SeekBar-seekBarBuffer-"],
 [class*="SessionTile-transcodeProgressPercent-"] {
