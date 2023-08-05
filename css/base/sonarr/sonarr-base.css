@@ -25,7 +25,7 @@
 }
 
 [class*="SeriesIndexPoster-ended"] {
-    border-color: transparant var(--bonusAccent) transparant transparant !important;
+    border-right-color: var(--bonusAccent) !important;
 }
 
 [class*="EpisodeTitleLink-link-"] {
