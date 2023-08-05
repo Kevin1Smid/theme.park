@@ -61,7 +61,7 @@
 }
 
 [class*=blue] {
-    background-color: #111;
+    background-color: #111 !important;
     border-color: #00000000
 }
 
@@ -71,26 +71,27 @@
 }
 
 [class*=purple] {
-    background-color: #111;
+    background-color: #111 !important;
     border-color: #00000000
 }
 
 [class*=green] {
-    background-color: #111;
+    background-color: #111 !important;
     border-color: #ff000000
 }
 
 [class*=green-400] {
-    background-color: var(--bonusAccent);
+    background-color: var(--bonusAccent) !important;
     border-color: #ff000000;
     color: #111!important
 }
 
 [class*=indigo-400] {
-    background-color: var(--warning);
+    background-color: var(--warning) !important;
     border-color: #00000000;
     color: #111!important
 }
+
 
 [class*=text-gray-]:not(button:disabled):not(button):not(.text-gray-100) {
     color: var(--text)
@@ -143,7 +144,7 @@ a.text-indigo-500:hover {
 #__next>div>div.relative.flex.flex-col.flex-1.w-0.min-w-0.mb-16.lg\:ml-64>main>div>div>div.relative.z-40.mt-6.mb-12.lg\:flex.lg\:items-end.lg\:justify-between.lg\:space-x-5>div.flex.flex-col-reverse.mt-6.space-y-4.space-y-reverse.justify-stretch.lg\:flex-row.lg\:justify-end.lg\:space-x-reverse.lg\:space-y-0.lg\:space-x-3>a,button.input-action,button[class*=bg-gray-],button[class*=bg-indigo-],button[class*=border-gray-],button[class*=border-indigo-] {
     background-color: rgb(var(--accent-color),.5);
     border-color: rgb(var(--accent-color),.5);
-    color: var(--button-text)
+    color: var(--button-text);
 }
 
 #headlessui-listbox-button-\:r5\:>span:first-child>span.ml-1.truncate.text-gray-400 {
