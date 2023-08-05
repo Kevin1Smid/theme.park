@@ -388,7 +388,7 @@
         "sonarr-darker": "https://kevin1smid.github.io/theme.park\n/css/addons/sonarr/sonarr-darker/sonarr-darker.css?sha=358cb68a8f43c0db50a83ea85b1838cf",
         "sonarr-text-logo": "https://kevin1smid.github.io/theme.park\n/css/addons/sonarr/sonarr-text-logo/sonarr-text-logo.css?sha=b27302fed964f73f7ec21dc8bb74e16f"
       },
-      "base_css": "https://kevin1smid.github.io/theme.park\n/css/base/sonarr/sonarr-base.css?sha=59c3f5d8c84546623f56a1653c162dc5"
+      "base_css": "https://kevin1smid.github.io/theme.park\n/css/base/sonarr/sonarr-base.css?sha=8967df6e373e909bdc954e06a9628de4"
     },
     "synclounge": {
       "addons": {},
