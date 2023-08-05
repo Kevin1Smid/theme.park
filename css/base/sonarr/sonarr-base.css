@@ -24,6 +24,10 @@
     --calendar-tv-available: 39 194 76;
 }
 
+[class*="SeriesIndexPoster-ended"] {
+    border-color: transparant var(--bonusAccent) transparant transparant !important;
+}
+
 [class*="EpisodeTitleLink-link-"] {
     color: var(--link-color) !important;
 }
