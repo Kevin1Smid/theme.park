@@ -61,21 +61,21 @@
 }
 
 [class*=blue]{
-    background-color: #282828;
+    background-color: #000000;
     border-color: #00000000;
 }
 [class*=indigo]{
-    background-color: #282828;
+    background-color: #000000;
         border-color: #00000000;
 }
 
 [class*=purple]{
-    background-color: #282828;
+    background-color: #000000;
         border-color: #00000000;
 }
 
 [class*=green]{
-    background-color: #282828;
+    background-color: #000000;
     border-color: #ff000000;
 }
 
